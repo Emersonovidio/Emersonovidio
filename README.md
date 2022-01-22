@@ -1,13 +1,11 @@
-### Hi there 👋
+Hello everyone !!!
 
-<!--
-**Emersonovidio/Emersonovidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 Atualmente em transição de carreira para desenvolvimento Web.
 - 🌱 Até agora já estudei e pratiquei Javascript, HTML, CSS, Testes Unitários, ReactJS, Docker, MySql, Express.
-- 👯 I’m looking to collaborate on ...
+- 👯 I..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
