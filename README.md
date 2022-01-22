@@ -1,13 +1,13 @@
 Hi everyone !!!
 Meu nome é Emerson Ovídio.
 
- 🔭 Atualmente em transição de carreira para desenvolvimento Web.
- 🌱 Até agora já estudei e pratiquei Javascript, HTML, CSS, Testes Unitários, ReactJS, Docker, MySql, Express.
+ Atualmente em transição de carreira para desenvolvimento Web.
+ Até agora já estudei e pratiquei Javascript, HTML, CSS, Testes Unitários, ReactJS, Docker, MySql, Express.
 
  
  
  📫 Contact : emersonvidiosantos@gmail.com
- 😄 Pronouns: ...
+ 
 
 
 
