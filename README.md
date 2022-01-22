@@ -1,17 +1,17 @@
 Hi everyone !!!
 
 
+ 🔭 Atualmente em transição de carreira para desenvolvimento Web.
+ 🌱 Até agora já estudei e pratiquei Javascript, HTML, CSS, Testes Unitários, ReactJS, Docker, MySql, Express.
+
+ 
+ 
+ 📫 Contact : emersonvidiosantos@gmail.com
+ 😄 Pronouns: ...
 
 
-- 🔭 Atualmente em transição de carreira para desenvolvimento Web.
-- 🌱 Até agora já estudei e pratiquei Javascript, HTML, CSS, Testes Unitários, ReactJS, Docker, MySql, Express.
--
-- 
-- 
-- 📫 Contact : emersonvidiosantos@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 <div align="center">
   <a href="https://github.com/Emersonovidio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonovidio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
