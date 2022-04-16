@@ -8,7 +8,7 @@ Meu nome é Emerson Ovídio.
  
  Até agora já estudei e pratiquei Javascript, HTML, CSS, Git, Testes Unitários, ReactJS, Docker, MySql, Node.Js, Express, API Rest.
 
- Você me encontrar no email:
+ Você pode me encontrar no email:
  
  📫  emersonovidiosantos@gmail.com
  
