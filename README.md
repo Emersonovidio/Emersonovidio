@@ -4,7 +4,7 @@ Hi everyone !!!
 
 Meu nome é Emerson Ovídio.
 
- Atualmente em transição de carreira para desenvolvimento Web.
+ Atualmente estou em transição de carreira para desenvolvimento Web buscando a primeira oportunidade na área.
    
 
  Você pode me encontrar no email:
