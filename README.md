@@ -7,9 +7,9 @@ Meu nome é Emerson Ovídio.
  Atualmente estou em transição de carreira para tecnologia e busco a primeira oportunidade na área de desenvolvimento Web.
    
 
-Meus contatos:                                                  <p align="center">Linkedin</p>
+Meus contatos:                                                  
  
- 📫  Email: 
+ 📫  Email:                                                      <p align="center">Linkedin</p>
  <h3 align="left"> emersonovidiosantos@gmail.com</h3>
 
 
