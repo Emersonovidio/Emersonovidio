@@ -9,8 +9,8 @@ Meu nome é Emerson Ovídio.
 
 Meus contatos:                                                  
  
- 📫  Email:                                                      <p align="center">Linkedin</p>
- <h3 align="left"> emersonovidiosantos@gmail.com</h3>
+ 📫  Email:                                                      
+ <h3 align="left"> emersonovidiosantos@gmail.com</h3>                     <p align="center">Linkedin</p>
 
 
  
