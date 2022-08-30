@@ -12,9 +12,9 @@ Meus contatos:
  📫  Email:   
  
  
- <h3 align="left"> emersonovidiosantos@gmail.com</h3>                     <p align="center">Linkedin</p>
+ <h3 align="left"> emersonovidiosantos@gmail.com</h3>                     <p align="left">Linkedin</p>
  
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/emersonovidiosantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emersonovidiosantos/" height="30" width="40" /></a>
 </p>
  
