@@ -4,7 +4,7 @@ Hello !!!
 
 Meu nome é Emerson Ovídio.
 
- Atualmente estou em transição de carreira para tecnologia e busco a primeira oportunidade na área de desenvolvimento Web.
+ Sou apaixonado por  tecnologia e tenho interesse em desenvolvimento web.
    
 
 Meus contatos:                                                  
