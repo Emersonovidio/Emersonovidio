@@ -1,10 +1,10 @@
-Hello !!!
+Hi !!!
 
 ###
 
 Meu nome é Emerson Ovídio.
 
- Sou apaixonado por  tecnologia e tenho interesse em desenvolvimento web.
+Atualmente trabalho com desenvolvimento web e desenvolvo aplicações em Typescript, Node, Express.
    
 
 Meus contatos:                                                  
