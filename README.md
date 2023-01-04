@@ -4,7 +4,8 @@ Hi !!!
 
 Meu nome é Emerson Ovídio.
 
-Atualmente trabalho com desenvolvimento web e desenvolvo aplicações em Typescript, Node, Express.
+Desenvolvimento web
+Tecnologias:  Typescript, Node, Express, Mysql, Docker, RestAPI.
    
 
 Meus contatos:                                                  
