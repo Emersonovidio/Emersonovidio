@@ -4,7 +4,7 @@ Hi !!!
 
 Meu nome é Emerson Ovídio.
 
-Desenvolvimento web
+Desenvolvedor Web: Backend
 Tecnologias:  Typescript, Node, Express, Mysql, Docker, RestAPI.
    
 
