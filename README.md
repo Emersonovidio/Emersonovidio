@@ -3,7 +3,7 @@ Hi !!!
 ###
 
 Meu nome é Emerson Ovídio.
-Desenvolvedor Web: Backend
+Sou desenvolvedor Web: Backend
 
 
 
