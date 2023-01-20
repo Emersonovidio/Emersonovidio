@@ -9,7 +9,14 @@ Desenvolvedor Web: Backend
 
 Atualmente busco novas oportunidades.
 
-Tenho xp com as seguintes tecnologias:  Typescript, Node, Express, Mysql, Docker, RestAPI.
+- Desenvolver em ambiente Javascript(NodeJS)
+- Experiência com TypeScript
+- Experiência com NodeJs (Avançado)
+- Experiência com RESTFul APIs, JSON
+- Experiência com MYSQL
+- Experiência com versionamento de projetos com Git
+- Experiência com Docker
+
    
 
 Meus contatos:                                                  
