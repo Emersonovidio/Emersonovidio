@@ -9,7 +9,7 @@ Desenvolvedor Web: Backend
 
 Atualmente busco novas oportunidades.
 
-- Desenvolver em ambiente Javascript(NodeJS)
+- Desenvolvimento em ambiente Javascript(NodeJS)
 - Experiência com TypeScript
 - Experiência com NodeJs (Avançado)
 - Experiência com RESTFul APIs, JSON
