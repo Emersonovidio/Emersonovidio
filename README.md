@@ -7,7 +7,8 @@ Sou desenvolvedor Web: Backend
 
 
 
-Atualmente busco novas oportunidades.
+Atualmente estudo PHP-Laravel e estou disponível para novos desafios.
+
 Tenho experiência em :
 - Desenvolvimento em ambiente Javascript(NodeJS)
 - Experiência com TypeScript
