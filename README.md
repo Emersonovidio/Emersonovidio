@@ -8,7 +8,7 @@ Sou desenvolvedor Web: Backend
 
 
 Atualmente busco novas oportunidades.
-
+Tenho experiência em :
 - Desenvolvimento em ambiente Javascript(NodeJS)
 - Experiência com TypeScript
 - Experiência com NodeJs (Avançado)
