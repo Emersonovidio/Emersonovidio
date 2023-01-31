@@ -12,7 +12,7 @@ Atualmente estudo PHP-Laravel e estou disponível para novos desafios.
 Tenho experiência em :
 - Desenvolvimento em ambiente Javascript(NodeJS)
 - Experiência com TypeScript
-- Experiência com NodeJs (Avançado)
+- Experiência com NodeJs
 - Experiência com RESTFul APIs, JSON
 - Experiência com MYSQL
 - Experiência com versionamento de projetos com Git
