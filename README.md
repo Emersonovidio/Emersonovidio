@@ -15,7 +15,7 @@ Tenho experiência em :
 - Experiência com NodeJs
 - Experiência com RESTFul APIs, JSON
 - Experiência com MYSQL
-- Experiência com versionamento de projetos com Git
+- Experiência com versionamento de projetos com Git.
 - Experiência com Docker
 
    
