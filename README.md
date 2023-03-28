@@ -7,7 +7,7 @@ Sou desenvolvedor Backend
 
 
 
-Atualmente estudo PHP-Laravel e estou disponível para novos desafios.
+Tenho CNPJ ativo e disponibilidade para realização de testes práticos.
 
 Tenho experiência em :
 - Desenvolvimento em ambiente Javascript(NodeJS)
