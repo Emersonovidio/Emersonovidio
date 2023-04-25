@@ -12,6 +12,7 @@ Tenho CNPJ ativo e disponibilidade para realização de testes práticos.
 Tenho experiência em :
 - Desenvolvimento em ambiente Javascript(NodeJS)
 - Experiência com TypeScript
+-  Experiência com PHP-Laravel
 - Experiência com NodeJs
 - Experiência com RESTFul APIs, JSON
 - Experiência com MYSQL
