@@ -3,17 +3,12 @@ Me chamo Emerson Ovídio, sou desenvolvedor Backend
 ####
 
 
-Tenho experiẽncia como Desenvolvedor PJ e estou na minha primeira experiência CLT.
+Tenho experiência como Desenvolvedor PJ e estou na minha primeira experiência CLT.
 
-Tenho experiência em :
-- Desenvolvimento em ambiente Javascript(NodeJS)
-- Experiência com TypeScript
--  Experiência com PHP-Laravel
-- Experiência com NodeJs
-- Experiência com RESTFul APIs, JSON
-- Experiência com MYSQL
-- Experiência com versionamento de projetos com Git.
-- Experiência com Docker
+
+Já atuei em ambiente Javascript(NodeJS) trabalhando em projetos que utilizavam TypeScript, RESTFul API, JSON, MYSQL, Docker, controle de versões por meio do Git.
+
+Atualmento trabalho com PHP-Laravel.
 
    
 
