@@ -3,7 +3,7 @@ Me chamo Emerson Ovídio, sou desenvolvedor Backend
 ####
 
 
-Tenho CNPJ ativo e disponibilidade para realização de testes práticos.
+Tenho experiẽncia como Desenvolvedor PJ e estou na minha primeira experiência CLT.
 
 Tenho experiência em :
 - Desenvolvimento em ambiente Javascript(NodeJS)
