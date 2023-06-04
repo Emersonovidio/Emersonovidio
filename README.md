@@ -1,10 +1,6 @@
-Hi !!!
-
-###
-
-Meu nome é Emerson Ovídio.
-Sou desenvolvedor Backend
-
+Olá !!!
+Me chamo Emerson Ovídio, sou desenvolvedor Backend
+####
 
 
 Tenho CNPJ ativo e disponibilidade para realização de testes práticos.
