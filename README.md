@@ -11,25 +11,36 @@ class About extends Me
             'workplace' => [
                 'company' => 'Cubo Tecnologia',
                 'position' => 'Backend Developer',
-                'type' =>  WorkType.FULL_TIME
+                'type' =>  WorkType.FULL_TIME,
+                'location' => 'João Pessoa'
+            ]
+        ];
+    }
+public function getPreviousWorkplaceInfo()
+    {
+        return [
+            'workplace' => [
+                'company' => '200Systems',
+                'position' => 'Backend Developer',
+                'type' =>  WorkType.FULL_TIME,
+                'location' => 'FULL-REMOTE'
             ]
         ];
     }
     
-    public function getCurrentCollegeInfo(){
+    public function getCollegeInfo(){
         return [
             'college' => [
                 'name' => 'Trybe - Escola de Tecnologia'
-                'semester' => 10,
-                'forming' => true
+                'course' => Web Development,
             ]
         ]
     }
 
-    public function getKnowledge()
+    public function getTechnicalsProficiencies()
     {
         return [
-            PHP::class,
+            Node::class,
             Javascript::class,
             Typescript::class,
             Laravel::class,
