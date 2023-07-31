@@ -32,7 +32,7 @@ public function getPreviousWorkplaceInfo()
         return [
             'college' => [
                 'name' => 'Trybe - Escola de Tecnologia'
-                'course' => Web Development,
+                'course' => 'Web Development',
             ]
         ]
     }
